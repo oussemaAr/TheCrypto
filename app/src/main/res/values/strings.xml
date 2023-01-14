@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TheCrypto</string>
+    <string name="loading_rate_error_message">Error Loading Data</string>
 </resources>
